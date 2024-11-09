@@ -56,13 +56,6 @@ Ensure that `nmap` is installed. You can install it using:
     brew install nmap
 ```
 
-### Step 1: Clone the Repository
-Clone this repository to your local system:
-   ```bash
-   git clone https://github.com/HaouatKarim/RDP-Scanner-v1.0.git
-   cd RDP-Scanner-v1.0
-```
-
 ## Usage
 
 ### RDP IP Range Fetcher
